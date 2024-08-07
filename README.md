@@ -93,5 +93,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 **Contact**
 Group 13
 For more information or to report issues, please contact: a1901635@adelaide.edu.au
-
-GitHublink: https://github.com/HaopengZhu/CHATAPP.git
