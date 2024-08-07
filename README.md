@@ -3,7 +3,6 @@
 Hi everyone, Here is group 13 with our group members: Haopeng Zhu(a1901635) and Zeyu Liu(a1903617). This project provides a secure and real-time chat application that supports both public and private messaging. It is built using Python with the websockets library, incorporating advanced security features and encryption for data protection. chat_server.py is the backdoor-free server code, and chat_server1.py is the server code containing the ethical backdoor.
 
 ## Table of Contents
-## Table of Contents
 - **Features**
 - **Technologies Used**
 - **Prerequisites**
