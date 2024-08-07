@@ -43,17 +43,6 @@ Open the client script in your browser or run: python chat_client.py
 
 ## Usage
 
-CHATAPP/
-├── venv/
-│   ├── Include/
-│   ├── Lib/
-│   ├── Scripts/
-│   └── pyvenv.cfg
-├── chat_client.py
-├── chat_server.py
-├── chat_server1.py
-└── README.md
-
 1. Starting the Application
 **Server**: Run python chat_server.py to start the server.
 **Client**: Execute python chat_client.py to launch the client interface.
